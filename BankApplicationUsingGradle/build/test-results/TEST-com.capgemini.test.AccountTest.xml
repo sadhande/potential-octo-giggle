@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.capgemini.test.AccountTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-08-01T05:29:40" hostname="DIN52003453" time="0.147">
+  <properties/>
+  <testcase name="whenTheValidInfoIsPassedAccountObjectShouldBeDepositedSuccessfully" classname="com.capgemini.test.AccountTest" time="0.139"/>
+  <testcase name="whenTheAmountIsLessThan500ItShouldThrowException" classname="com.capgemini.test.AccountTest" time="0.001"/>
+  <testcase name="whenTheValidInfoIsPassedAccountObjectShouldBeCreatedSuccessfully" classname="com.capgemini.test.AccountTest" time="0.004"/>
+  <testcase name="whenAccountNumberislessthanone" classname="com.capgemini.test.AccountTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
